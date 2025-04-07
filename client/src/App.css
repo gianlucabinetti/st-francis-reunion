@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------------------
+   Custom Fonts
+---------------------- */
+@font-face {
+  font-family: 'Playwrite AU NSW';
+  src: url('/fonts/PlaywriteAUNSW-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inter_18pt';
+  src: url('/fonts/Inter_18pt-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* ---------------------
+   Global Layout + Typography
+---------------------- */
+html,
+body {
+  @apply h-full m-0 p-0 box-border bg-light text-gray-800 font-inter leading-relaxed;
+}
+
+* {
+  @apply box-border;
+}
+
+/* ---------------------
+   Headings + Text
+---------------------- */
+h1, h2, h3, h4, h5 {
+  @apply font-playwrite text-gray-800;
+}
+
+p {
+  @apply font-inter leading-tight;
+}
+
+/* ---------------------
+   Navigation
+---------------------- */
+nav ul li a {
+  @apply font-playwrite text-white text-lg transition;
+}
+
+/* Active nav links should be styled in Header.jsx with className logic */
