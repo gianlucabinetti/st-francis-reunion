@@ -2,7 +2,7 @@ const boardMembers = [
     {
       name: 'Fe “Nini” B. Calaor Mantelman',
       role: 'Chair: Sponsorship, Donations, Contributions and Souvenir Programs Committee',
-      imgtttttttttttttttttttttttage: '/images/Board-Members/Calaor-Mantelman.webp',
+      image: '/images/Board-Members/Calaor-Mantelman.webp',
     },
     {
       name: 'Meriam Lentorio Hilay',
