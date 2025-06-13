@@ -15,25 +15,7 @@ The St. Francis Reunion Website is a comprehensive platform designed to bring to
 - ⚡ **Fast Performance** - Optimized React components and efficient routing
 - 🌐 **Easy Deployment** - Ready for production deployment
 
-## 🏗️ Project Architecture
 
-```
-st-francis-reunion/
-├── 📁 client/                 # React Frontend Application
-│   ├── 📁 public/            # Static assets
-│   ├── 📁 src/
-│   │   ├── 📁 components/    # Reusable UI components
-│   │   ├── 📁 pages/         # Page components
-│   │   ├── 📁 assets/        # Images, icons, fonts
-│   │   ├── App.jsx           # Main App component
-│   │   └── index.js          # Application entry point
-│   ├── package.json          # Frontend dependencies
-│   └── tailwind.config.js    # Tailwind CSS configuration
-├── 📁 server/                # Node.js Backend Server
-│   ├── index.js              # Express server setup
-│   └── package.json          # Backend dependencies
-└── README.md                 # Project documentation
-```
 
 ## 🛠️ Technology Stack
 
