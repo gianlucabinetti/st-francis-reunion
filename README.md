@@ -3,18 +3,7 @@
 <div align="center">
 
 ![St. Francis Reunion](https://img.shields.io/badge/St.%20Francis-Reunion%20Website-blue?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat&logo=node.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1-38B2AC?style=flat&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-**A beautiful, full-stack web application for managing and organizing the St. Francis Reunion event**
-
-[🚀 Live Demo](#demo) • [📋 Features](#features) • [🛠️ Installation](#installation) • [📖 Documentation](#api-documentation)
-
-</div>
-
----
 
 ## 📖 About The Project
 
