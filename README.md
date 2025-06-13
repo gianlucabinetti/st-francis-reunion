@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![St. Francis Reunion](https://img.shields.io/badge/St.%20Francis-Reunion%20Website-blue?style=for-the-badge&logo=react)
-
 
 ## 📖 About The Project
 
