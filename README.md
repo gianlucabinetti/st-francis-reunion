@@ -9,32 +9,32 @@ The St. Francis Reunion Website is a comprehensive platform designed to bring to
 
 ### ✨ Key Highlights
 
-- 🎨 **Modern UI/UX** - Beautiful, responsive design with Tailwind CSS
-- 🔐 **Secure Authentication** - User registration and login system
-- 📱 **Mobile-First** - Fully responsive across all devices
-- ⚡ **Fast Performance** - Optimized React components and efficient routing
-- 🌐 **Easy Deployment** - Ready for production deployment
+ 🎨 **Modern UI/UX** - Beautiful, responsive design with Tailwind CSS
+ 🔐 **Secure Authentication** - User registration and login system
+ 📱 **Mobile-First** - Fully responsive across all devices
+ ⚡ **Fast Performance** - Optimized React components and efficient routing
+ 🌐 **Easy Deployment** - Ready for production deployment
 
 
 
 ## 🛠️ Technology Stack
 
 ### Frontend
-- **⚛️ React 18.2.0** - Modern JavaScript library for building user interfaces
-- **🛣️ React Router DOM 7.4.1** - Declarative routing for React applications
-- **🎨 Tailwind CSS 3.4.1** - Utility-first CSS framework
-- **📱 PostCSS & Autoprefixer** - CSS processing and vendor prefixing
+ **⚛️ React 18.2.0** - Modern JavaScript library for building user interfaces
+ **🛣️ React Router DOM 7.4.1** - Declarative routing for React applications
+ **🎨 Tailwind CSS 3.4.1** - Utility-first CSS framework
+ **📱 PostCSS & Autoprefixer** - CSS processing and vendor prefixing
 
 ### Backend
-- **🟢 Node.js** - JavaScript runtime environment
-- **🚀 Express.js** - Fast, minimalist web framework
-- **📁 Static File Serving** - Optimized asset delivery
+ **🟢 Node.js** - JavaScript runtime environment
+ **🚀 Express.js** - Fast, minimalist web framework
+ **📁 Static File Serving** - Optimized asset delivery
 
 ### Development Tools
-- **📦 npm** - Package management
-- **🔥 React Scripts** - Development and build tools
-- **🧪 Jest** - Testing framework
-- **📊 Web Vitals** - Performance monitoring
+ **📦 npm** - Package management
+ **🔥 React Scripts** - Development and build tools
+ **🧪 Jest** - Testing framework
+ **📊 Web Vitals** - Performance monitoring
 
 ## 🚀 Getting Started
 
@@ -214,9 +214,6 @@ npm start
 - 📱 **Mobile Optimization**: Perfect responsive design
 - ♿ **Accessibility**: WCAG 2.1 AA compliant
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
@@ -237,6 +234,6 @@ For support and questions:
 
 **Made with ❤️ for the St. Francis Community**
 
-[⬆ Back to Top](#-st-francis-reunion-website)
+
 
 </div>
